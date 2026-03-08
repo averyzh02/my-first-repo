@@ -1,8 +1,9 @@
 # my-first-repo
 ## A repository for learning GitHub.
 - ✨Hi, I'm Seng Nu.
-- ✨I'm currently learning programming.
-- ✨Hobbies: eating and cooking.
+- 💻I'm currently learning programming.
+- ☘️Hobbies: eating and cooking.
+- ![image] (https://github.com/averyzh02/my-first-repo/blob/main/image.jpeg)
 ## About this project:
 - This repository was created for GitHub practice and collaboration.
 - Hi I am Sandra.
